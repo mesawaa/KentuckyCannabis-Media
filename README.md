@@ -9,6 +9,7 @@ game's UI art. Every number is a default setting; all of them can be changed in 
 
 | File | Shows |
 | --- | --- |
+| `images/mushroom-visuals.gif` | Recorded in game: the same view sober and on Psilocybe cubensis |
 | `images/card-cannabis.gif` | Cannabis: effects, growing, drying, grinding, cooking, concentrates, smoking |
 | `images/card-mushrooms.gif` | Psilocybe cubensis: effects, spores, growing, tea, Lemon Tek, honey |
 | `images/card-heroin.gif` | Opium and heroin: effects, processing, foil and injection, overdose |
