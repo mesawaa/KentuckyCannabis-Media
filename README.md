@@ -16,6 +16,7 @@ game's UI art. Every number is a default setting; all of them can be changed in 
 | `images/card-dmt.gif` | DMT: effects, supplies, extraction, glassware |
 | `images/card-meth.gif` | Methamphetamine: effects, chemistry, routes, overheating |
 | `images/drug-effects.png` | All drugs' effects on one page |
+| `images/zombies.gif` | Recorded in game: the Tweaker, Hippie, Mad Scientist and Hunter S. Thompson zombies |
 | `images/hydroponics.gif` | Hydroponic cooler setup |
 | `images/irrigation.gif` | Irrigation Barrel and pumped cooler rows |
 | `images/compact-rack.gif` | Compact Drying Rack with its upgrades |
